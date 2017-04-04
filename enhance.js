@@ -1,4 +1,5 @@
 import * as enhancements from './src';
+import AWS from 'aws-sdk';
 
 export * from './src';
 
